@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/site.webmanifest</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/static/styles/style.css</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/aboutthispage/</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-8-21/</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+</urlset>
