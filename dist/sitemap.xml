@@ -22,7 +22,12 @@
   </url>
   
   <url>
-    <loc>/posts/2021-8-21/</loc>
+    <loc>/posts/2021-8-21-down/</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-8-21-up/</loc>
     <lastmod>2021-08-21</lastmod>
   </url>
 </urlset>
